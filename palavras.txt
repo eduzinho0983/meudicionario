@@ -5421,7 +5421,7 @@ peixe
 puxar
 roxo
 saxo
-taxa táxi
+taxa
 texto
 vazio
 xale
