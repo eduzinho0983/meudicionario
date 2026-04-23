@@ -492,7 +492,7 @@ letargia
 leucemia
 leucócito
 leucocitose
-leucodermia
+bode
 leucopenia
 leucorreia
 levante
