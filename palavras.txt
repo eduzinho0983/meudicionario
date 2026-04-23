@@ -1,3 +1,4 @@
+bem
 Subversivo
 Adjacente
 Blitz
@@ -340,7 +341,9 @@ vasectomia
 vasilha
 vaselina
 vaso
-vasoconstrição
+sifilis
+loiro
+loira
 vasodilatação
 vassoura
 vasto
@@ -694,7 +697,7 @@ metabolismo
 metacarpo
 metástase
 metatarso
-metabolito
+metabolismo
 metáfora
 metal
 meteoro
@@ -6459,10 +6462,11 @@ armazena
 aroma
 arpão
 arqueiro
+desrespeitar
 arquiteto
 arquivado
 arraial
-arranchar
+chamado
 arranha
 arranjar
 arranjo
@@ -10900,7 +10904,6 @@ música
 aqueles
 tanto
 marca
-muitas vezes
 carta
 até
 milha
