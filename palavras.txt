@@ -1224,7 +1224,7 @@ intestino
 intolerância
 intoxicação
 intracelular
-intramuscular
+musculos
 intravenoso
 introspecção
 introversão
