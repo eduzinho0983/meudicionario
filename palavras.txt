@@ -1,4 +1,5 @@
 Fraquezas
+cruzes
 REESTRUTURACAO
 viemos
 Redondezas
@@ -831,10 +832,8 @@ extensão
 externo
 extirpação
 extração
-extrassístole
 extravasamento
 extremidade
-extrínseco
 exuberante
 exsudação
 fácies
@@ -11534,6 +11533,7 @@ especialmente
 figo
 medo
 enorme
+semeie
 irmã
 aço
 discutir
@@ -11558,7 +11558,7 @@ noite
 condição
 alimentação
 ferramenta
-total de
+totalidade
 básico
 cheiro
 vale
