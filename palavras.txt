@@ -1929,6 +1929,9 @@ consignado
 construtor
 consultor
 contador
+houve
+house
+hou
 controlador
 copiloto
 copia
@@ -1944,7 +1947,7 @@ curador
 dançarino
 datilógrafo
 decorador
-dedetizador
+detetizador
 degustador
 delegado
 demógrafo
