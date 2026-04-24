@@ -1,4 +1,6 @@
 Fraquezas
+pinhais
+haitiano
 eolico
 cruzes
 REESTRUTURACAO
@@ -7241,7 +7243,7 @@ alternador
 alternância
 alternar
 alternativa
-altiloquente
+quente
 alto
 alto-falante
 altruísmo
@@ -7263,8 +7265,6 @@ alvejado
 alvejante
 alvejar
 alvéolo
-alvissareiro
-alvitrar
 alvitre
 alvoroçado
 alvoroçar
