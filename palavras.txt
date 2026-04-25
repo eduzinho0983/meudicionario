@@ -4,12 +4,14 @@ roer
 entupir
 reabilitação
 tupi
+grill
 coincidir
 wafer
 Simplificar
 Qualificar
 pinhais
 Cafeeiro
+Halloween
 proeza
 tsunami
 proeminente
@@ -41,8 +43,6 @@ Aptidão
 Agnóstico
 Atmosfera
 Drenagem
-Thrasher
-Mnemônico
 Pneu
 Pousava
 Esvaziava
@@ -54,6 +54,8 @@ karate
 Karma
 Ketchup
 Kelvin
+parkour
+koala
 nabo
 nadadeira
 nádega
@@ -386,6 +388,8 @@ vegetação
 vegetal
 vegetariano
 veículo
+bem
+acabemos
 veia
 veleiro
 velar
@@ -6384,7 +6388,7 @@ aninhado
 aniquilar
 anis
 anistia
-aniversariante
+aniversario
 anjo
 anomalia
 anônimo
@@ -6403,6 +6407,7 @@ anual
 anuário
 anular
 anúncio
+antes
 anzol
 apagado
 apaixonar
