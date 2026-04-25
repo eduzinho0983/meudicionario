@@ -2159,7 +2159,7 @@ laminador
 lanche
 lanterna
 lapidador
-laqueador
+laqueadura
 lavador
 lavrador
 leão
